@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 010aa0f70d20cc14295056745367dae6
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Resources/ScenePrefab/PathPoint.prefab
+  uploadId: 227364

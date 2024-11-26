@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ac946f27c352a1c4f88c9af8dffe7582
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/PathIndicator.prefab
+  uploadId: 227364

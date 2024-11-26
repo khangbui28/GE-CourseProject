@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3ce8b5c4f1e9933438fa967f2d06e3d5
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Model_CustomMesh/Platform/Materials/PlatformCube.mat
+  uploadId: 227364

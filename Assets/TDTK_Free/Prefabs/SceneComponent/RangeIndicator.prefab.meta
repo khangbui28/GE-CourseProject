@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 66029efc7854c03488cc866bbac775bc
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/RangeIndicator.prefab
+  uploadId: 227364

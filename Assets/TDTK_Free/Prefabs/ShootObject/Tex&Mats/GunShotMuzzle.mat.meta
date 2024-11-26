@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a4706eeb84132144cb6f4294857a397b
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/ShootObject/Tex&Mats/GunShotMuzzle.mat
+  uploadId: 227364

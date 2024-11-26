@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b57dd7c0223a4f84cb0cf9e3c590f1cc
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Animation/Creep/DummyAnimationClip/DummySpawn.anim
+  uploadId: 227364

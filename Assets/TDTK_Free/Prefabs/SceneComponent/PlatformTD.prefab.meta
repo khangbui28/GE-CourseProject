@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 8d600f4af767ce44d88d0651772a70fc
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/PlatformTD.prefab
+  uploadId: 227364

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 68250518b9d02464194b1fa8d2700674
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/Creeps/AnimationClips/Destroyed.anim
+  uploadId: 227364

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 238e45c68016d3242a11ddb4c255a31e
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/Mat&Texture/Platform/Grid_Platform.mat
+  uploadId: 227364

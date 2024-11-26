@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 619d8de6c9f7796439c23b08f0dd0859
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/Mat&Texture/Path/PathTrail.mat
+  uploadId: 227364

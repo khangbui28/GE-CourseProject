@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d23b022b1569726458fffc25ed417b1b
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Animation/Creep/CreepAnimatorControllerTemplate.controller
+  uploadId: 227364

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 275a3f2ca238b6143b803020e8d4b6c5
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/Effects/WaypointEffect.prefab
+  uploadId: 227364

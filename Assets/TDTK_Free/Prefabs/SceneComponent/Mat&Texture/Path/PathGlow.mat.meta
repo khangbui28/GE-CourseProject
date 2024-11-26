@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7d6dbaab4b6b0db4c9d9a17435c81977
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/Mat&Texture/Path/PathGlow.mat
+  uploadId: 227364

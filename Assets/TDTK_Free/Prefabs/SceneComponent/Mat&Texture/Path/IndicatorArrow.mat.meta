@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d9f103c6e3a1f2f43b67d433acc8e5f3
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/Mat&Texture/Path/IndicatorArrow.mat
+  uploadId: 227364

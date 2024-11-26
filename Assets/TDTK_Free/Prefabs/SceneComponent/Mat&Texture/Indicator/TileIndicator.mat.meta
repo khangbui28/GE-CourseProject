@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e3c5311a91fff96438592094e4a37132
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/Mat&Texture/Indicator/TileIndicator.mat
+  uploadId: 227364

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8b63207df94179e4ab93ac26d5c6a8dc
+labels:
+- Free
+- creep
+- Defense
+- Tower
+- TD
+- TowerDefense
+- TDTK
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/Towers/TowerSupport.prefab
+  uploadId: 227364

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bc30cd89d85923849be84bd0f7a76c20
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/ShootObject/Tex&Mats/Glow.mat
+  uploadId: 227364

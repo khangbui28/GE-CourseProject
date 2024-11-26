@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 011fd88656240f24ebf1481b1473261d
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Resources/DB_TDTK/TowerDB.prefab
+  uploadId: 227364

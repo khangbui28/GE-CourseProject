@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 97639ce7c6d928f4ba8c31eae62babaa
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/Creeps/AnimationClips/Move.anim
+  uploadId: 227364

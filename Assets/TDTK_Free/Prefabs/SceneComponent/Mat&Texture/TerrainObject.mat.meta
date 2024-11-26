@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 42aa194cf3c21794f8dcbfb4e206f57c
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/SceneComponent/Mat&Texture/TerrainObject.mat
+  uploadId: 227364

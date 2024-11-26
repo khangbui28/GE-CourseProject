@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6bc512f1255415d489041625029ed292
+labels:
+- Free
+- creep
+- Defense
+- Tower
+- TD
+- TowerDefense
+- TDTK
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5106
+  packageName: Tower Defense Toolkit (TDTK) Free
+  packageVersion: 2.0.1
+  assetPath: Assets/TDTK_Free/Prefabs/Creeps/CreepCube_Flying.prefab
+  uploadId: 227364
