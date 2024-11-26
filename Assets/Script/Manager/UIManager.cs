@@ -1,6 +1,6 @@
 using UnityEngine;
 using TMPro;
-using UnityEditor.SearchService;
+
 
 public class UIManager : MonoBehaviour
 {
@@ -32,7 +32,7 @@ public class UIManager : MonoBehaviour
     private void Update()
     {
         UpdateUI();
-        LogPerformanceMetrics();
+        //LogPerformanceMetrics();
     }
 
     private void OnEnable()

@@ -11,7 +11,7 @@ public class OldEnemy : MonoBehaviour
     private int currentPathIndex = 0;
     private bool isAlive = true;
 
-    //private bool behaviourAdjusted = false;
+    private bool behaviourAdjusted = false;
 
     public static event Action<OldEnemy> OnEnemyDestroyed;
     public static event Action<OldEnemy> OnEnemyReachedEnd2;
@@ -21,14 +21,14 @@ public class OldEnemy : MonoBehaviour
     {
         MoveAlongPath();
 
-       /* if (!behaviourAdjusted)
+        if (!behaviourAdjusted)
         {
             
             speed = EnemyBehaviour.AdjustEnemySpeed(UIManager.Instance.playerHealth, speed);
             Debug.Log($"Adjusted Speed: {speed}");
-            behaviourAdjusted = true; // Ensure it only happens once
+            behaviourAdjusted = true; 
         }
-       */
+       
     }
 
     private void SpeedChange()

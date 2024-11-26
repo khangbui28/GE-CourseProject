@@ -2007,12 +2007,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   oldEnemyPrefab: {fileID: 100000, guid: f55a253f07001644fbed81c60ac85952, type: 3}
-  spawnInterval: 0.001
+  spawnInterval: 2
   waves:
   - useNewSystem: 0
     enemiesToSpawn:
     - {fileID: 11400000, guid: 2911b932578390841ae4fbadf728856f, type: 2}
-    enemyCount: 1000
+    enemyCount: 30
+  - useNewSystem: 1
+    enemiesToSpawn:
+    - {fileID: 11400000, guid: 2911b932578390841ae4fbadf728856f, type: 2}
+    - {fileID: 11400000, guid: 3ca27df3f674535429eb7efe696b4024, type: 2}
+    enemyCount: 50
 --- !u!114 &1352487273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2055,7 +2060,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPoolItems:
   - enemyData: {fileID: 11400000, guid: 2911b932578390841ae4fbadf728856f, type: 2}
-    initialPoolSize: 10000
+    initialPoolSize: 100000
+  - enemyData: {fileID: 11400000, guid: 3ca27df3f674535429eb7efe696b4024, type: 2}
+    initialPoolSize: 100000
 --- !u!1 &1394034359
 GameObject:
   m_ObjectHideFlags: 0

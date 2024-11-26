@@ -126,7 +126,7 @@ public class EnemySpawner : MonoBehaviour
 
     private void HandleEnemyReachedEnd(NewEnemy enemy)
     {
-        UIManager.Instance.ReducePlayerHealth(40);
+        UIManager.Instance.ReducePlayerHealth(50);
     }
     private void HandleOldEnemyReachedEnd(OldEnemy enemy)
     {
@@ -137,14 +137,14 @@ public class EnemySpawner : MonoBehaviour
     {
         NewEnemy.OnEnemyDestroyed += HandleEnemyDestroyed;
         NewEnemy.OnEnemyReachedEnd += HandleEnemyReachedEnd;
-        //OldEnemy.OnEnemyReachedEnd2 += HandleOldEnemyReachedEnd;
+        OldEnemy.OnEnemyReachedEnd2 += HandleOldEnemyReachedEnd;
     }
 
     private void OnDisable()
     {
         NewEnemy.OnEnemyDestroyed -= HandleEnemyDestroyed;
         NewEnemy.OnEnemyReachedEnd -= HandleEnemyReachedEnd;
-        //OldEnemy.OnEnemyReachedEnd2 += HandleOldEnemyReachedEnd;
+        OldEnemy.OnEnemyReachedEnd2 += HandleOldEnemyReachedEnd;
     }
 }
 
